@@ -1,2 +1,0 @@
-# myfirstwebpage
-created by pratibha
